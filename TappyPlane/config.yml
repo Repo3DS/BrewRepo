@@ -1,0 +1,12 @@
+title: Tappy Plane
+author: "Stephen Gowen"
+version: 1.0
+category: games
+rating: E
+description: "Flappy Bird clone"
+long-description: "In this game, you tap to control a colorful plane through a cave!"
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/TappyPlane.tar.xz
+filesize: 452620
+file-md5: 914f455a78dc86f5c1de1702f3668baa
+screenshots:
+  - "http://i.imgur.com/H6f0hj6.png"

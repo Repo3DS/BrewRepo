@@ -1,0 +1,15 @@
+title: DrawAttack
+author: Cruel
+version: 1.1
+category: games
+rating: M
+description: "Online drawing game"
+long-description: "Online drawing game similar to Pictionary. One player is selected to draw a random word while everyone tries to guess what is being drawn. 2-16 player."
+file: http://github.com/Cruel/DrawAttack/releases/download/1.1/DrawAttack-1.1-3dsx.zip
+filesize: 1288813
+file-md5: 6859eb32f4e1309ae743e8f2f812566c
+screenshots:
+  - "http://i.imgur.com/G2jRvir.jpg"
+  - "http://i.imgur.com/1L9e6OL.png"
+  - "http://i.imgur.com/Q4QzPwm.png"
+  - "http://i.imgur.com/C8S7Wqe.png"

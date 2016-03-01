@@ -1,0 +1,13 @@
+title: CTRXplorer
+author: d0k3
+version: 0.9.3
+category: utilities
+rating: E
+description: "SD file manager"
+long-description: "CTRXplorer is an open source SD file manager with simple hex viewer. Its goal is to be a simple, functional tool for managing your files without any unneeded bloat."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/CTRXplorer.tar.xz
+filesize: 249096
+file-md5: 3c72d932ad7a9f7b72efde142d5fb1ce
+install-message: "Word of Warning: This is a fully capable file manager, and as such per definition a powerful tool. While its implementation tries to prevent you from accidentially doing anything stupid, it still assumes you know what you're doing."
+screenshots:
+  - "http://i.imgur.com/3Xe7GA5.png"

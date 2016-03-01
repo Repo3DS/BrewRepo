@@ -1,0 +1,13 @@
+title: Insectoid Defense
+author: "Stephen Gowen"
+version: 1.0
+category: games
+rating: E
+description: "Sci-fi tower defense game"
+long-description: "In the distant future, living conditions on Earth are rapidly declining. With not much time left, your team has been tasked with leading an expedition to find a new home. After finding what appeared to be a suitable planet, its inhabitants are now pursuing your star cruiser on the trip home. For now we will call them the Insectoids, a violent alien race. Waves of them are approaching from all directions, and the only way to defend the ship is to deploy your Towers!\n\nAn important aspect of Insectoid Defense is using towers together strategically. Many other Tower Defense games can usually be beaten simply by spamming the \"best\" Tower for as long as possible, but what you will find here is a much more fulfilling and challenging experience."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/InsectoidDefense.tar.xz
+filesize: 5032048
+file-md5: ca489b1b7bd51e0fc26d2adaf8a2c4a7
+screenshots:
+  - "http://i.imgur.com/7uTdwsW.png"
+  - "http://i.imgur.com/dUK9GFb.png"

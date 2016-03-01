@@ -1,0 +1,13 @@
+title: FBI
+author: Steveice10
+version: 1.4.17
+category: utilities
+rating: E
+description: "CIA manager"
+long-description: "This is a utility for managing and (un)installing CIA files. This can be done from SD card or over network, individually or in bulk. Additionally, you can install various different MSET ROP chains."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/FBI.tar.xz
+filesize: 236308
+file-md5: ba46917b36cda704f42c1490491e067f
+install-message: "This version of FBI does not currently work with firmwares above 9.2 while running as a 3dsx."
+screenshots:
+  - "http://i.imgur.com/4e5XYGm.png"

@@ -1,0 +1,10 @@
+title: ftpd
+author: mtheall
+version: 2.2
+category: utilities
+rating: E
+description: "FTP server"
+long-description: "FTP server for the 3ds, enabling you to easily transfer files to and from your 3ds using a FTP client on your computer. Supports multiple simultaneous clients. The 3DS itself only appears to support enough sockets to perform 4-5 simultaneous data transfers, so it will help if you limit your FTP client to this many parallel requests."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/ftpd.tar.xz
+filesize: 95012
+file-md5: bf595294720579dbf1cb41390c9bf393

@@ -1,0 +1,15 @@
+title: Picroxx!
+author: Substance12
+version: 0.2
+category: games
+rating: E
+description: "Picross clone pizzle game"
+long-description: "Picroxx! is a Picross homebrew clone for the Nintendo 3DS console. For those who don't know what Picross is, it's a series of Sudoku-ish puzzle games in which you have to fill up spaces to discover a hidden picture. It gives you numeric hints for each row and column and you have to figure out which spaces to fill, leaving a gap of at least 1 cell between every \"line\" of filled cells."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Picroxx.tar.bz2
+filesize: 11555658
+file-md5: eb6d04344bb3c3d5fdf64cd8b928c7ac
+screenshots:
+  - "http://i.imgur.com/PDej3yj.png"
+  - "http://i.imgur.com/2H3CBpJ.png"
+  - "http://i.imgur.com/KU3dkuH.png"
+  - "http://i.imgur.com/Ft6WFek.png"

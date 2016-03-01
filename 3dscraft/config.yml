@@ -1,0 +1,10 @@
+title: 3DScraft
+author: smea
+version: 141120
+category: games
+rating: E
+description: "Minecraft clone"
+long-description: "3DScraft is a 3DS homebrew adaptation of the popular game Minecraft. At the moment it is akin to a very basic version of Minecraft's creative mode : you can run around, fly, destroy blocks, place blocks, all in an infinite world generated procedurally in real time. All modifications made to the world are saved to the SD card so that progress isn't lost. Best of all, the game can run in stereoscopic 3D and it looks, like, really cool."
+file: https://smealum.github.io/3dscraft/downloads/3dscraft_141120.zip
+filesize: 186107
+file-md5: 111ae5fd692641da0e873306be30a8ef

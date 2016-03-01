@@ -1,0 +1,14 @@
+title: "KillerMan: Ghost Buster"
+author: "Greiga Master"
+version: 1.03
+category: games
+rating: E
+description: "Bust ghosts with KillerMan"
+long-description: "You play as KillerMan from MegaMan Battle Network 6 and fight off waves of ghosts and viruses to try to get a high score. The game features stages where you fight sets of viruses and an endless mode where you test how long you can last against an endless wave of ghosts and viruses."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/killerman.tar.xz
+filesize: 6068732
+file-md5: 687ff2ba59cafdff18508e641432d08a
+screenshots:
+  - "http://i.imgur.com/KjEa6RL.png"
+  - "http://i.imgur.com/Dc0Nr5u.png"
+  - "http://i.imgur.com/KpkNjHA.png"

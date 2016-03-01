@@ -1,0 +1,13 @@
+title: Antibounce
+author: TurtleP
+version: "1.0.1"
+category: games
+rating: E
+description: "Ball bouncing game"
+long-description: "You play as an infinitely bouncing ball attempting to nab as many coins as possible for a great high score. As the levels increase, so does the speed of the game. The problem is that spikes will appear on a random tile in the map every 5 seconds. At any given time, shields can spawn which protect you from dying once. Beginning on level 4 rockets that home in on you will spawn. Furthermore, gravity itself will flip every so often, so be careful."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Antibounce.tar.xz
+filesize: 1353672
+file-md5: 9c3cc52b147b763ecc269485c9dfef78
+screenshots:
+  - "http://i.imgur.com/6iw8VD9.png"
+  - "http://i.imgur.com/TcNZufM.png"

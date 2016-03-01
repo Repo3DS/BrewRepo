@@ -1,0 +1,12 @@
+title: 2048-3D
+author: "Jasper Peters"
+version: 0.3.2
+category: games
+rating: E
+description: "2048 clone puzzle game"
+long-description: "The goal is to get a tile with a value of 2048. Every tile is a power of 2. You use the arrow keys to move the tiles with numbers, if they collide and have the same value they merge into a double of the first value."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/2048-3D.7z
+filesize: 30302
+file-md5: 70b46a7e26c5281322ab566fe6a7f5ef
+screenshots:
+  - "http://i.imgur.com/H9VAnIK.png"

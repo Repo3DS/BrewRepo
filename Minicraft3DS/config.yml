@@ -1,0 +1,16 @@
+title: Minicraft 3DS
+author: Davideesk
+version: 1.0
+category: games
+rating: E
+description: "Port of Minicraft"
+long-description: "This is a 3DS port of a game created by Markus \"Notch\" Persson as part of the Ludum dare 22 competition back in December 2011."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Minicraft3DS.tar.xz
+filesize: 335228
+file-md5: 2e90bbd90f0de2afa0e4df1da496388e
+screenshots:
+  - "http://i.imgur.com/NgO86Di.png"
+  - "http://i.imgur.com/l19G7Lb.png"
+  - "http://i.imgur.com/n46ltJO.png"
+  - "http://i.imgur.com/y1WGdiD.png"
+  - "http://i.imgur.com/G9TSN5I.png"
