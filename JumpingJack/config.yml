@@ -1,0 +1,14 @@
+title: "Jumping Jack"
+author: Zalo
+version: 0.9
+category: games
+rating: E
+description: "Jumping platformer"
+long-description: "The goal is to reach the top. You press Up to jump through floor holes, but be careful not to fall back through them or get hit my enemies."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/JumpingJack.tar.xz
+filesize: 576112
+file-md5: a228c364537d59dc2cf2799e964c8d96
+screenshots:
+  - "http://i.imgur.com/gSSyrMB.png"
+  - "http://i.imgur.com/r1L1LVI.png"
+  - "http://i.imgur.com/L9WMAmE.png"

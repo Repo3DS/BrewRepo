@@ -1,0 +1,14 @@
+title: "Minesweeper 2DS"
+author: "Cid2mizard"
+version: 1.0
+category: games
+rating: E
+description: "Minesweeper clone"
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Minesweeper2DS.tar.xz
+filesize: 200592
+file-md5: 79ec528a0e6417ff10fab4a7df54bad8
+screenshots:
+  - "http://i.imgur.com/MKuMqO9.png"
+  - "http://i.imgur.com/wWkHc1t.png"
+  - "http://i.imgur.com/W5u8ayP.png"
+  - "http://i.imgur.com/zMJYff6.png"

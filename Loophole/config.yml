@@ -1,0 +1,13 @@
+title: Loophole
+author: "CKlidify & Korosu"
+version: 1.0
+category: games
+rating: E
+description: "Puzzle Platformer"
+long-description: "Loophole is a single player 2D Puzzle Platformer based on using multiple \"players\", when you control a player the others are frozen and can be jumped on like platforms."
+file: https://github.com/Repo3DS/BrewRepo/releases/download/r1/Loophole.tar.xz
+filesize: 662204
+file-md5: 37c2fa9517f6eb372f1421f54e1f5874
+screenshots:
+  - "http://i.imgur.com/1EA28k8.png"
+  - "http://i.imgur.com/BF3tjpd.png"
