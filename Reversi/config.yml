@@ -1,0 +1,14 @@
+title: "Reversi"
+author: "Jasper Peters"
+version: 1.1.0
+category: games
+rating: E
+description: "Reversi board game"
+long-description: "The goal is to get the most of your color tile. You can play against your friends or a A.I. opponent."
+file: https://github.com/MrJPGames/Othello-3DS/releases/download/1.1/Reversi.zip
+filesize: 9143323
+file-md5: be3d80283d7aedb9ecb06db6e528e65f
+screenshots:
+  - "http://i.imgur.com/MEU31Pj.png"
+  - "http://i.imgur.com/6oPrapQ.png"
+  - "http://i.imgur.com/fRv3i8w.png"
