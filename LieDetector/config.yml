@@ -1,0 +1,12 @@
+title: "Lie Detector"
+author: "RosalinaFan573"
+version: 1.0
+category: games
+rating: E
+description: "Simple Lie Detector"
+long-description: "Simple ASCII-based Lie Detector made for the Nintendo 3DS."
+file: http://rosalinafan.djwrestlingrocks.com/rosalinafan/LieDetector-brewman.zip
+filesize: 89211
+file-md5: 2ae57b6cd8bc1f5d19dcf126be89ef92
+screenshots:
+  - "http://i.imgur.com/pX5FEM2.png"
